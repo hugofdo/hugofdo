@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hugo
-- 👀 I’m interested in Embedded Systems, Coding and Music.
-- 🌱 I’m currently learning Verilog.
-- 💞️ I’m looking to collaborate on anything.
+- 👀 I’m interested in Embedded Systems, Music Production and Fullstack development.
+- 🌱 I’m currently learning JavaScript.
 - 📫 You can reach me on Linked-in: www.linkedin.com/in/hugo-oliveira-953839282
